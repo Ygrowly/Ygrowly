@@ -1,16 +1,14 @@
-<div align="center">
+<h1 align="center">刘宇广 · Yuguang Liu</h1>
 
-# 刘宇广 · Yuguang Liu
+<p align="center"><b>AI 应用开发 / Agent 后端</b> ｜ 南华大学 2027 届 ｜ 找实习 · 校招</p>
 
-**AI 应用开发 / Agent 后端** ｜ 南华大学 2027 届 ｜ 找实习 · 校招
+<p align="center">
+  <a href="https://ygrowly.github.io"><img src="https://img.shields.io/badge/Blog-ygrowly.github.io-4C8BF5?style=for-the-badge&logo=astro&logoColor=white" alt="Blog"></a>
+  <a href="mailto:lyg3044good@gmail.com"><img src="https://img.shields.io/badge/Email-lyg3044good%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://juejin.cn/user/1819006196264012"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金"></a>
+</p>
 
-[![Blog](https://img.shields.io/badge/Blog-ygrowly.github.io-4C8BF5?style=for-the-badge&logo=astro&logoColor=white)](https://ygrowly.github.io)
-[![Email](https://img.shields.io/badge/Email-lyg3044good%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lyg3044good@gmail.com)
-[![掘金](https://img.shields.io/badge/掘金-技术文章-1E80FF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/user/1819006196264012)
-
-**我把「Agent 到底做对没有」当成工程问题来做** —— 能定义、能测量、能复现，而不是靠感觉说它没问题。
-
-</div>
+<p align="center"><b>我把「Agent 到底做对没有」当成工程问题来做</b> —— 能定义、能测量、能复现，而不是靠感觉说它没问题。</p>
 
 ## 主线
 
@@ -40,11 +38,7 @@
 
 16 个 MCP 原子工具 + LangGraph 三 Agent 编排 + RAG，含 Web 管理端与 Uni-app 移动双端；`backend/app/eval` 内置 Agent 评测集，改 prompt 能跑回归看有没有退化。服务外包竞赛作品，README 里如实写了它没做到什么。
 
-<div align="center">
-
-[![skillicons](https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,react,vue,java,spring,typescript&perline=10&theme=light)](https://skillicons.dev)
-
-</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,react,vue,java,spring,typescript&perline=10" alt="tech stack"></p>
 
 <details>
 <summary><b>展开：我怎么写技术文档（3 条纪律）· 早期探索 · 开源贡献</b></summary>
@@ -70,8 +64,4 @@
 
 ---
 
-<div align="center">
-
-正在找 **AI 应用开发 / Agent 后端** 方向的实习与校招机会，邮箱见顶部。
-
-</div>
+<p align="center">正在找 <b>AI 应用开发 / Agent 后端</b> 方向的实习与校招机会，邮箱见顶部。</p>
